@@ -1,0 +1,21 @@
+:root {
+  // // Colors
+
+  // Primary
+  --color-primary: hsl(31, 77%, 52%);
+  --color-secondary: hsl(184, 100%, 22%);
+  --color-tertiary: hsl(179, 100%, 13%);
+
+  // Neutral
+  --color-white-transparent: hsla(0, 0%, 100%, 0.75);
+  --color-light-gray: hsl(0, 0%, 95%);
+
+  // // Fonts
+  --main-font: "Lexend Deca", sans-serif;
+  --heading-font: 'Big Shoulders Display', cursive;
+}
+body {
+  margin: 0;
+  font-family: var(--main-font);
+}
+
